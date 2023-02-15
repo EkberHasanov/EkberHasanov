@@ -64,7 +64,7 @@
 </div>
 <h1 align="center" style="font-size: 32px;"></h1>
 <h2 align="center" style="font-size: 32px;"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" height="50"/> GitHub Stats </h2>
-<img src="https://github-profile-trophy.vercel.app/?username=EkberHasanov&theme=shades-of-purple&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="Trophy" align="middle"/> <br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=EkberHasanov&theme=shades-of-purple&no-frame=true&no-bg=true&row=1&column=5" width="100%" alt="Trophy" align="middle"/> <br><br>
 <img align="middle" src="https://github-readme-stats-godkingjay.vercel.app/api?username=EkberHasanov&theme=shades-of-purple&show_icons=true&count_private=true" width="60%"/> <br><br>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EkberHasanov&custom_title=Akbar%27s%20GitHub%20Activity%20Graph&bg_color=141321&color=6A5ACD&line=626069&point=DAA520&area_color=FE428E&title_color=DAA520&area=true" width="100%"/>
 
