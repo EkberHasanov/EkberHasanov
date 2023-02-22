@@ -22,7 +22,8 @@
     * 🐾 I want to network and make new friends here!<br><br>
     * 🌊 2023 Goals: Improving Backend Engineering and Learning Machine Learning and creating an Open Source Project. <br><br>
     * ♟️ Interest: Math, Chess, Science, and Coding. <br><br>
-    * Reach me: <a href="https://github.com/EkberHasanov">https://github.com/EkberHasanov</a>, <a href="https://gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="15" height="15"/>hasanvakbar@gmail.com</a>
+    * Reach me: <a href="https://github.com/EkberHasanov">https://github.com/EkberHasanov</a>, <a href="https://gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="15" height="15"/>hasanvakbar@gmail.com</a>, 
+    <a href="https://www.chess.com/member/rodimeniya"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Green_pawn.svg" width="15" height="15"/>Rodimeniya</a>
   </div>
 </div>
 
