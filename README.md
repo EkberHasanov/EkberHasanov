@@ -70,7 +70,7 @@
 <img align="middle" src="https://github-readme-stats-godkingjay.vercel.app/api?username=EkberHasanov&theme=shades-of-purple&show_icons=true&count_private=true" width="60%"/> <br><br>
 
 
-<div style="display: flex; width: 100%; justify-content: space-evenly;"> 
+<div align="center" style="display: flex; width: 100%; justify-content: space-evenly;"> 
   <p align="left">
     <a href="https://www.linkedin.com/in/akbar-hasanov-335b16235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </p>
