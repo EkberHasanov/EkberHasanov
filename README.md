@@ -50,14 +50,14 @@
   <img align="center" width="50" height="60" src="https://skillicons.dev/icons?i=mongodb" alt="skills actively learning logos"> <br> 
   </p>
   <div style="display: flex; justify-content: space-around;">
-    <div>
+    <div align="center" >
     <h2 align="center" style="font-size: 32px;">Planning to Learn:</h2>
       <img align="center" alt="Jeff-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="60">
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" height="60">
       <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="60">
     </div>
-    <div>
+    <div align="center" >
     <h2 align="center" style="font-size: 32px;">Actively Learning :</h2>
       <img align="center" src="https://skillicons.dev/icons?i=bash,django">
       <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="60">
