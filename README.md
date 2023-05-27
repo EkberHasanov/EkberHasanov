@@ -59,9 +59,8 @@
     </div>
     <div align="center" >
     <h2 align="center" style="font-size: 32px;">Actively Learning :</h2>
-      <img align="center" src="https://skillicons.dev/icons?i=bash,django">
+      <img align="center" src="https://skillicons.dev/icons?i=bash,django,php">
       <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="60">
-      <img align="center" src="https://avatars.githubusercontent.com/u/16178365?s=200&v=4" width="50" height="60">
     </div>
   </div>
 </div>
