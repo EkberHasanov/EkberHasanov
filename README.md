@@ -4,22 +4,25 @@
 </div>
 <hr>
 <div align="center" style="display: flex; align-items: center; justify-content: space-around; flex-direction: column;"> 
-    <div align="center" width="400px" height="400px">    
-        <img width="400px" src="https://profile-counter.glitch.me/EkberHasanov/count.svg" />
+    <div align="center"> 
+      <p><b>Profile Views</b></p>
+      <img src="https://profile-counter.glitch.me/EkberHasanov/count.svg" />
     </div>
-    <div style="display: flex; justify-content: space-between; width: 31.5%;">
-        <img src="https://img.shields.io/github/followers/EkberHasanov?color=%236A5ACD&style=for-the-badge" width="150px"/>
-        <img src="https://img.shields.io/github/stars/EkberHasanov?color=%235F9EA0&style=for-the-badge" width="150px"/>
+    <div style="display: flex; justify-content: space-evenly; width: 100%;">
+        <img src="https://img.shields.io/github/followers/EkberHasanov?color=%236A5ACD&style=for-the-badge" />
+        <img src="https://img.shields.io/github/stars/EkberHasanov?color=%235F9EA0&style=for-the-badge" />
     </div>
 </div>
 
+<hr>
+
 
 <div style="display: flex; justify-content: space-between; margin-top: 15px;">
-  <img src="./assets/space-city.gif" width="500px" /> 
   <div style="margin-top: 7px;">
-    * 👨‍💻 I'm Akbar👋, currently a Information Technology student and attending the 4th Semester. <br><br>
+    * 👨‍💻 I'm Akbar👋, currently an Information Technology student and attending the 4th Semester. <br><br>
     * 🌳 I’m currently learning Django REST Framework <img src="https://www.svgrepo.com/show/305963/django.svg" alt="django" width="20" height="20"/>, PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> and python-telegram-bot! <img src="https://avatars.githubusercontent.com/u/16178365?s=200&v=4" width="20" height="20"/> . <br><br>
-    * 🐾 I want to network and make new friends here!<br><br>
+    * 🔧 Projects:
+          <a href="https://github.com/EkberHasanov/translategram">Translategram</a>: Python library for translating messages sent by bots. <br><br>
     * 🌊 2023 Goals: Improving Backend Engineering and Learning Machine Learning and creating an Open Source Project. <br><br>
     * ♟️ Interest: Math, Chess, Science, and Coding. <br><br>
     * Reach me: <a href="https://github.com/EkberHasanov">https://github.com/EkberHasanov</a>, <a href="https://gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="15" height="15"/>hasanvakbar@gmail.com</a>, 
@@ -66,7 +69,7 @@
 <h2 align="center" style="font-size: 32px;"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" height="50"/> GitHub Stats </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=EkberHasanov&theme=shades-of-purple&no-frame=true&no-bg=true&row=1&column=5" width="100%" alt="Trophy" align="middle"/> <br><br>
 <img align="middle" src="https://github-readme-stats-godkingjay.vercel.app/api?username=EkberHasanov&theme=shades-of-purple&show_icons=true&count_private=true" width="60%"/> <br><br>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=EkberHasanov&custom_title=Akbar%27s%20GitHub%20Activity%20Graph&bg_color=141321&color=6A5ACD&line=626069&point=DAA520&area_color=FE428E&title_color=DAA520&area=true" width="100%"/>
+
 
 <div align="center" style="display: flex; width: 100%; justify-content: space-evenly;"> 
   <p align="center">
