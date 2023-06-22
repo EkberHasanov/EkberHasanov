@@ -64,13 +64,14 @@
     </div>
   </div>
 </div>
+<div>
 <h1 align="center" style="font-size: 32px;"></h1>
 <h2 align="center" style="font-size: 32px;"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" height="50"/> GitHub Stats </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=EkberHasanov&theme=shades-of-purple&no-frame=true&no-bg=true&row=1&column=5" width="100%" alt="Trophy" align="middle"/> <br><br>
-<img align="middle" src="https://github-readme-stats-godkingjay.vercel.app/api?username=EkberHasanov&theme=shades-of-purple&show_icons=true&count_private=true" width="60%"/> <br><br>
+<img align="center" src="https://github-readme-stats-godkingjay.vercel.app/api?username=EkberHasanov&theme=shades-of-purple&show_icons=true&count_private=true" width="80%"/> <br><br>
 
 
-<div align="center" style="display: flex; width: 100%; justify-content: space-evenly;"> 
-  <a href="https://www.linkedin.com/in/akbar-hasanov-335b16235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/byhasanov/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a width="40%" href="https://www.hackerrank.com/ekber_022004?hr_r=1">
+    <img width="40%" src="assets/hackerrank.png">
+</a>
 </div>
