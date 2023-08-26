@@ -20,6 +20,7 @@
 <div style="display: flex; justify-content: space-between; margin-top: 15px;">
   <div style="margin-top: 7px;">
     * 👨‍💻 I'm Akbar👋, currently an Information Technology student and attending the 4th Semester. <br><br>
+    * 💯 I'm currently working as a Application Support | Devops at <a href="https://eigen.az/">Eigen LTD</a> <br><br>
     * 🌳 I’m currently learning Django REST Framework <img src="https://www.svgrepo.com/show/305963/django.svg" alt="django" width="20" height="20"/>, PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> and python-telegram-bot! <img src="https://avatars.githubusercontent.com/u/16178365?s=200&v=4" width="20" height="20"/> . <br><br>
     * 🌊 2023 Goals: <s>Improving Backend Engineering(✅)</s> and Learning Machine Learning and <s>creating an Open Source Project(✅)</s>. <br><br>
     * 🔧 Open Source Project(✅): <a href="https://github.com/EkberHasanov/translategram">Translategram</a> <br><br>
@@ -52,15 +53,14 @@
   <div style="display: flex; justify-content: space-around;">
     <div align="center" >
     <h2 align="center" style="font-size: 32px;">Planning to Learn:</h2>
-      <img align="center" alt="Jeff-C#" height="50" width="60" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/php@0.0.0/php_256x256.png">
+      <img align="center" src="https://skillicons.dev/icons?i=svelte,tensorflow">
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="60">
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" height="60">
       <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="60">
     </div>
     <div align="center" >
     <h2 align="center" style="font-size: 32px;">Actively Learning :</h2>
-      <img align="center" src="https://skillicons.dev/icons?i=bash,django,php">
-      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="60">
+      <img align="center" src="https://skillicons.dev/icons?i=solidity,kubernetes,jenkins,gitlab">
+<!--       <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="60"> -->
     </div>
   </div>
 </div>
