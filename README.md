@@ -56,10 +56,12 @@
       <img align="center" src="https://skillicons.dev/icons?i=svelte,tensorflow">
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="60">
       <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="60">
+      <p>Svelte|Tensorflow|NodeJS|Firebase</p>
     </div>
     <div align="center" >
     <h2 align="center" style="font-size: 32px;">Actively Learning :</h2>
       <img align="center" src="https://skillicons.dev/icons?i=solidity,kubernetes,jenkins,gitlab">
+      <p>Solidity|Kubernetes|Jenkins|Gitlab</p>
 <!--       <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="60"> -->
     </div>
   </div>
