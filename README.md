@@ -20,7 +20,7 @@
 <div style="display: flex; justify-content: space-between; margin-top: 15px;">
   <div style="margin-top: 7px;">
     * 👨‍💻 I'm Akbar👋, currently an Information Technology student and attending the 4th Semester. <br><br>
-    * 💯 I'm currently working as a Application Support | Devops at <a href="https://eigen.az/">Eigen LTD</a> <br><br>
+    * 💯 I'm currently working as an Application Support | Devops at <a href="https://eigen.az/">Eigen LTD</a> <br><br>
     * 🌳 I’m currently learning Django REST Framework <img src="https://www.svgrepo.com/show/305963/django.svg" alt="django" width="20" height="20"/>, PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> and python-telegram-bot! <img src="https://avatars.githubusercontent.com/u/16178365?s=200&v=4" width="20" height="20"/> . <br><br>
     * 🌊 2023 Goals: <s>Improving Backend Engineering(✅)</s> and Learning Machine Learning and <s>creating an Open Source Project(✅)</s>. <br><br>
     * 🔧 Open Source Project(✅): <a href="https://github.com/EkberHasanov/translategram">Translategram</a> <br><br>
