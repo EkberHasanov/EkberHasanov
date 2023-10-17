@@ -19,7 +19,7 @@
 
 <div style="display: flex; justify-content: space-between; margin-top: 15px;">
   <div style="margin-top: 7px;">
-    * 👨‍💻 I'm Akbar👋, currently an Information Technology student and attending the 4th Semester. <br><br>
+    * 👨‍💻 I'm Akbar👋, currently an Information Technology student and attending the 5th Semester. <br><br>
     * 💯 I'm currently working as an Application Support Engineer at <a href="https://eigen.az/">Eigen LTD</a> <br><br>
     * 🌳 I’m currently learning Linux <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="20" height="20"/>, Jenkins <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="20" height="20"/> and Cloud technologies <img src="https://skillicons.dev/icons?i=azure,aws" width="40" height="40"/> . <br><br>
     * 🌊 2023 Goals: <s>Improving Backend Engineering(✅)</s> and Learning Machine Learning and <s>creating an Open Source Project(✅)</s>. <br><br>
