@@ -20,9 +20,9 @@
 <div style="display: flex; justify-content: space-between; margin-top: 15px;">
   <div style="margin-top: 7px;">
     * 👨‍💻 I'm Akbar👋, currently a senior year Information Technology student and planning to pursue masters degree on AI and Automation. <br><br>
-    * 💯 I'm currently working as an Application Support Engineer at <a href="https://eigen.az/">Eigen LTD</a> mostly doing Operational and DevOps tasks <br><br>
+    * 💯 I'm currently working as an Application Support Engineer at <a href="https://eigen.az/">Eigen LTD</a> mostly doing Operational and DevOps tasks. <br><br>
     * 🔬 I'm currently working on my research on <b>Desiction-making under uncertainty</b> to extract the theories and knowledge from there to apply real world. <br><br>
-    * 🌳 I’m currently trying to improve myself on DevOps(Kubernetes, Jenkins and Cloud technologies), Machine Learning(Algorithms, Models and its theory) and Golang <br><br>
+    * 🌳 I’m currently trying to improve myself on DevOps(Kubernetes, Jenkins and Cloud technologies), Machine Learning(Algorithms, Models and its theory) and Golang. <br><br>
     * 🌊 2025 Goals: Learning Machine Learning, contributing Open Source Projects and Apply Science and Theories I find interesting to real life. <br><br>
     * 🔧 Open Source Project(✅): <a href="https://github.com/EkberHasanov/translategram">Translategram</a> <br><br>
     * ♟️ Interest: Math, Chess, Science, and Coding. <br><br>
