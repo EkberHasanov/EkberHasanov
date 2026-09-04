@@ -19,11 +19,11 @@
 
 <div style="display: flex; justify-content: space-between; margin-top: 15px;">
   <div style="margin-top: 7px;">
-    * 👨‍💻 I'm Akbar👋, currently a first year MSc Artificial Intelligence and Automation Engineering student at University of Siena. <br><br>
-    * 💯 I'm currently working as a DevOps Engineer at <a href="https://eigen.az/">Eigen LTD</a> mostly doing Operational and DevOps tasks. <br><br>
+    * 👨‍💻 I'm Ekber👋, currently second year MSc Artificial Intelligence and Automation Engineering student at University of Siena. <br><br>
+    * 💯 I'm currently working as a AI/DevOps Engineer at <a href="https://eigen.az/">Eigen LTD</a> mostly doing AI and DevOps tasks. <br><br>
     * 🔬 I'm currently working on my research on <b>Desiction-making under uncertainty</b> to extract the theories and knowledge from there to apply real world. <br><br>
-    * 🌳 I’m currently trying to improve myself on DevOps(Kubernetes, Jenkins and Cloud technologies), Machine Learning(Algorithms, Models and its theory) and AI Agents. <br><br>
-    * 🌊 2025 Goals: Learning Machine Learning, contributing Open Source Projects and Apply Science and Theories I find interesting to real life. <br><br>
+    * 🌳 I’m currently trying to improve myself on DevOps(Kubernetes and Cloud technologies), Machine Learning(Algorithms, Models and its theory) and AI Agents. <br><br>
+    * 🌊 2026 Goals: Learning Machine Learning, contributing Open Source Projects and Apply Science and Theories I find interesting to real life. <br><br>
     * 🔧 Open Source Project(✅): <a href="https://github.com/EkberHasanov/translategram">Translategram</a> & <a href="https://github.com/EkberHasanov/init-sh">init-sh</a> <br><br>
     * ♟️ Interest: Math, Chess, Science, and Coding. <br><br>
     * Reach me: <a href="https://github.com/EkberHasanov">https://github.com/EkberHasanov</a>, <a href="https://gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="15" height="15"/>hasanvakbar@gmail.com</a>, 
